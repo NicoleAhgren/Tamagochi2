@@ -1,0 +1,15 @@
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\bin\Debug\net6.0\Tamagochi2.exe
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\bin\Debug\net6.0\Tamagochi2.deps.json
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\bin\Debug\net6.0\Tamagochi2.runtimeconfig.json
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\bin\Debug\net6.0\Tamagochi2.dll
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\bin\Debug\net6.0\Tamagochi2.pdb
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.csproj.AssemblyReference.cache
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.AssemblyInfoInputs.cache
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.AssemblyInfo.cs
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.csproj.CoreCompileInputs.cache
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.dll
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\refint\Tamagochi2.dll
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.pdb
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\Tamagochi2.genruntimeconfig.cache
+C:\Users\ahgren.nicole\OneDrive\Dokument\Skola\Tamagochi2\Tamagochi2\obj\Debug\net6.0\ref\Tamagochi2.dll
