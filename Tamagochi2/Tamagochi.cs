@@ -30,9 +30,9 @@ public class Tamagochi
     }
         public void Tick()
     {
-        boredom += 5;
-        hunger += 8;
-        if (boredom == 100 || hunger == 100)
+        boredom += generator.Next(5);
+        hunger += generator.Next(7);
+        if (boredom >= 100 || hunger >= 100)
         {
             isAlive = false;
         }
@@ -46,7 +46,7 @@ public class Tamagochi
     public void Hello()
     {
         int wordNr = generator.Next(words.Count);
-        Console.WriteLine($" [{name}] says: {words[wordNr]}");
+        Console.WriteLine($" {name} says: {words[wordNr]}");
         ReduceBoredom();
     }
 }
