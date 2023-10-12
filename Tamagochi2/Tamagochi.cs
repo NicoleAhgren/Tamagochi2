@@ -19,24 +19,38 @@ public class Tamagochi
         hunger -= 10;
         Console.WriteLine($"Hunger = {hunger}" );
     }
-    public void GetAlive()
+    public bool GetAlive()
         {
-            if (isAlive == true){
-                Console.WriteLine("Den lever!!");
-            }
-
-            else 
-            {
-                Console.WriteLine("Död");
-            }
+            return isAlive;
         }
 
     private void ReduceBoredom()
     {
         boredom -= 10;
     }
-    
+        public void Tick()
+    {
+        boredom += 5;
+        hunger += 8;
+        if (boredom == 100 || hunger == 100)
+        {
+            isAlive = false;
+        }
+    }
+    public void TeachWord(string word)
+    {
+        words.Add (word);
+       ReduceBoredom();
+        return;
+    }
+    public void Hello()
+    {
+        int wordNr = generator.Next(words.Count);
+        Console.WriteLine($" [{name}] says: {words[wordNr]}");
+        ReduceBoredom();
+    }
 }
+
 
 
 
